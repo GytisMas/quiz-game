@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d9135d59728dba4cbd14c28e72abf16, type: 3}
+  m_Name: Science
+  m_EditorClassIdentifier: 
+  Questions:
+  - SingleChoice: 1
+    Text: How many bones are in the human body?
+    Answers:
+    - IsCorrect: 1
+      Text: 206
+    - IsCorrect: 0
+      Text: 212
+    - IsCorrect: 0
+      Text: 216
+    - IsCorrect: 0
+      Text: 230
+  - SingleChoice: 0
+    Text: Select all physicists that didn't discover the concept of Gravity.
+    Answers:
+    - IsCorrect: 1
+      Text: Niels Bohr
+    - IsCorrect: 0
+      Text: Isaac Newton
+    - IsCorrect: 1
+      Text: Albert Einstein
+  - SingleChoice: 1
+    Text: What is the hardest natural substance on Earth?
+    Answers:
+    - IsCorrect: 0
+      Text: Redstone
+    - IsCorrect: 0
+      Text: Gold
+    - IsCorrect: 1
+      Text: Diamond
+    - IsCorrect: 0
+      Text: Iron
+  - SingleChoice: 1
+    Text: 'Humans and chimpanzees share roughly how much DNA? '
+    Answers:
+    - IsCorrect: 0
+      Text: 65 %
+    - IsCorrect: 0
+      Text: 56 %
+    - IsCorrect: 0
+      Text: 81 %
+    - IsCorrect: 1
+      Text: 98 %
+  - SingleChoice: 1
+    Text: Which is the main gas that makes up the Earth's atmosphere?
+    Answers:
+    - IsCorrect: 0
+      Text: Helium
+    - IsCorrect: 0
+      Text: Oxygen
+    - IsCorrect: 1
+      Text: Nitrogen
+    - IsCorrect: 0
+      Text: Hydrogen
+  - SingleChoice: 1
+    Text: Which is the main gas that makes up the Earth's atmosphere?
+    Answers:
+    - IsCorrect: 0
+      Text: Helium
+    - IsCorrect: 0
+      Text: Oxygen
+    - IsCorrect: 1
+      Text: Nitrogen
+    - IsCorrect: 0
+      Text: Hydrogen
+  - SingleChoice: 1
+    Text: What is the approximate time it takes for the sun's light to reach Earth?
+    Answers:
+    - IsCorrect: 1
+      Text: 8 minutes
+    - IsCorrect: 0
+      Text: 8 hours
+    - IsCorrect: 0
+      Text: 8 days
+  - SingleChoice: 0
+    Text: At what temperature(s) are Celsius and Fahrenheit not equal?
+    Answers:
+    - IsCorrect: 1
+      Text: 40
+    - IsCorrect: 1
+      Text: -20
+    - IsCorrect: 0
+      Text: -40
+  - SingleChoice: 1
+    Text: 'What is the biggest planet in our solar system? '
+    Answers:
+    - IsCorrect: 0
+      Text: Saturn
+    - IsCorrect: 1
+      Text: Jupiter
+    - IsCorrect: 0
+      Text: Mars
+    - IsCorrect: 0
+      Text: Earth
+  - SingleChoice: 1
+    Text: 'What is a material that will not carry an electrical charge called? '
+    Answers:
+    - IsCorrect: 0
+      Text: Conductor
+    - IsCorrect: 1
+      Text: Insulator
+    - IsCorrect: 0
+      Text: Semiconductor
