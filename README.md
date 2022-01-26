@@ -1,2 +1,2 @@
-# quiz-game-35142
+# quiz-game
 A basic trivia / quiz game.
